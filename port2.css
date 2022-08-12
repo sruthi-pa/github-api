@@ -1,0 +1,16 @@
+body{
+    background-color:black;
+}
+.content{
+    color:aqua;
+    margin-left: 60px;
+}
+h1{
+    color:black;
+    
+    background-color: white;
+    padding-left:30px;
+    width:200px;
+    height:50px;
+     margin-left:500px;
+}

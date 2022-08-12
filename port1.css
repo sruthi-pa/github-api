@@ -1,0 +1,57 @@
+
+
+.container{
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+  
+  }
+  img{
+    position: absolute;
+    width:100%;
+    height:1400px
+  }
+  .contact{
+    display:inline;
+    position:absolute;
+    background-color:black;
+    width:400px;
+    height:500px;
+    margin-left: 700px;
+    margin-top: 90px;
+  }
+  
+  #h4{
+    padding-left: 50px;
+    font-size: 40px;
+    color:darkred;
+  }
+  #input{
+    
+    color:black;
+    font-weight: 30px;
+    border:none;
+    height: 40px;
+    border-style:dotted;
+   
+    border-color: darkred;
+  }
+  .fields{
+    
+    padding-left: 65px;
+  
+  }
+  .btn{
+    color:black;
+    font-weight: 30px;
+    border:none;
+    height: 40px;
+    border-style:dotted;
+   
+    border-color: darkred;
+  }
+  .btn:hover{
+    background-color: darksalmon;
+    transition-duration:4s;
+  }
